@@ -1,0 +1,209 @@
+print ("Введите натуральное число от 0 до 99")
+a =  (input())
+if a.isdigit():
+    a = int (a)
+    if a>=0 and a<=99:
+        if a==0:
+            print ("ноль")
+        elif a==1:
+            print ("один")
+        elif a==2:
+            print ("два")
+        elif a==3:
+            print ("три")
+        elif a==4:
+            print ("четыре")
+        elif a==5:
+            print ("пять")
+        elif a==6:
+            print ("шесть")
+        elif a==7:
+            print ("семь")
+        elif a==8:
+            print ("восемь")
+        elif a==9:
+            print ("девять")
+        elif a==10:
+            print ("десять")
+        elif a==11:
+            print ("одинадцать")
+        elif a==12:
+            print ("двенадцать")
+        elif a==13:
+            print ("тринадцать")
+        elif a==14:
+            print ("четырнадцать")
+        elif a==15:
+            print ("пятьнадцать")
+        elif a==16:
+            print ("шетьнадцать")
+        elif a==17:
+            print ("семнадцать")
+        elif a==18:
+            print ("восемьнадцать")
+        elif a==19:
+            print ("девятьнадцать")
+        elif a==20:
+            print ("двадцать")
+        elif a==21:
+            print ("двадцать один")
+        elif a==22:
+            print ("двадцать два")
+        elif a==23:
+            print ("двадцать три")
+        elif a==24:
+            print ("двадцать четыре")
+        elif a==25:
+            print ("двадцать пять")
+        elif a==26:
+            print ("двадцать шесть")
+        elif a==27:
+            print ("двадцать семь")
+        elif a==28:
+            print ("двадцать восемь")
+        elif a==29:
+            print ("двадцать девять")
+        elif a==30:
+            print ("тридцать")
+        elif a==31:
+            print ("тридцать один")
+        elif a==32:
+            print ("тридцать два")
+        elif a==33:
+            print ("тридцать три")
+        elif a==34:
+            print ("тридцать четыре")
+        elif a==35:
+            print ("тридцать пять")
+        elif a==36:
+            print ("тридцать шесть")
+        elif a==37:
+            print ("тридцать семь")
+        elif a==38:
+            print ("тридцать восемь")
+        elif a==39:
+            print ("тридцать девять")
+        elif a==40:
+            print ("сорок")
+        elif a==41:
+            print ("сорок один")
+        elif a==42:
+            print ("сорик два")
+        elif a==43:
+            print ("сорок три")
+        elif a==44:
+            print ("сорок четыре")
+        elif a==45:
+            print ("сорок пять")
+        elif a==46:
+            print ("сорок шесть")
+        elif a==47:
+            print ("сорок семь")
+        elif a==48:
+            print ("сорок восемь")
+        elif a==49:
+            print ("сорок девять")
+        elif a==50:
+            print ("пятьдесят")
+        elif a==51:
+            print ("пятьдесят один")
+        elif a==52:
+            print ("пятьдесят два")
+        elif a==53:
+            print ("пятьдесят три")
+        elif a==54:
+            print ("пятьдесят четыре")
+        elif a==55:
+            print ("пятьдесят пять")
+        elif a==56:
+            print ("пятьдесят шесть")
+        elif a==57:
+            print ("пятьдесят семь")
+        elif a==58:
+            print ("пятьдесят восемь")
+        elif a==59:
+            print ("пятьдесят девять")
+        elif a==60:
+            print ("шестьдесят")
+        elif a==61:
+            print ("шестьдесят один")
+        elif a==62:
+            print ("шестьдесят два")
+        elif a==63:
+            print ("шестьдесят три")
+        elif a==64:
+            print ("шестьдесят четыре")
+        elif a==65:
+            print ("шестьдесят пять")
+        elif a==66:
+            print ("шестьдесят шесть")
+        elif a==67:
+            print ("шестьдесят семь")
+        elif a==68:
+            print ("шестьдесят восемь")
+        elif a==69:
+            print ("шестьдесят девять")
+        elif a==70:
+            print ("семьдесят")
+        elif a==71:
+            print ("семьдесят один")
+        elif a==72:
+            print ("семьдесят два")
+        elif a==73:
+            print ("семьдесят три")
+        elif a==74:
+            print ("семьдесят четыре")
+        elif a==75:
+            print ("семьдесят пять")
+        elif a==76:
+            print ("семьдесят шесть")
+        elif a==77:
+            print ("семьдесят семь")
+        elif a==78:
+            print ("семьдесят восемь")
+        elif a==79:
+            print ("семьдесят девять")
+        elif a==80:
+            print ("восемьдесят")
+        elif a==81:
+            print ("восемьдесят один")
+        elif a==82:
+            print ("восемьдесят два")
+        elif a==83:
+            print ("восемьдесят три")
+        elif a==84:
+            print ("восемьдесят четыре")
+        elif a==85:
+            print ("восемьдесят пять")
+        elif a==86:
+            print ("восемьдесят шесть")
+        elif a==87:
+            print ("восемьдесят семь")
+        elif a==88:
+            print ("восемьдесят восемь")
+        elif a==89:
+            print ("восемьдесят девять")
+        elif a==90:
+            print ("девяносто")
+        elif a==91:
+            print ("девяносто один")
+        elif a==92:
+            print ("девяносто два")
+        elif a==93:
+            print ("девяносто три")
+        elif a==94:
+            print ("девяносто четыре")
+        elif a==95:
+            print ("девяносто пять")
+        elif a==96:
+            print ("девяносто шесть")
+        elif a==97:
+            print ("девяносто семь")
+        elif a==98:
+            print ("девяносто восемь")
+        elif a==99:
+            print ("девяносто девять")
+    else:
+        print ("Данные введены не коректно")
+else:
+    print ("Данные введены не коректно")
