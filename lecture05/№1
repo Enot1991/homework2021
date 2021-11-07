@@ -9,7 +9,7 @@ for x in f:
             if (x + y + z) == 2020:
                 res.append(x * y * z)
 res = list(set(res))
-print("В файл task1_output.txt пошли числа:", *res)
+print("В файл task1_output.txt идут числа:", *res)
 with open('task1_output.txt', 'w') as file:
     for x in res:
         file.write(str(x))
