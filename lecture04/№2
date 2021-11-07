@@ -4,7 +4,6 @@ t = int(input())
 while len(a) < t:
     n = random.randint(0, 10000000)
     a.append(n)
-
 for i in range (t-1):
     for j in range (t-i-1):
         if a[j] > a[j+1]:
